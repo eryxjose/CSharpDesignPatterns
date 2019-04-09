@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\bin\Debug\ISP_SOLID.exe.config
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\bin\Debug\ISP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\bin\Debug\ISP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\obj\Debug\ISP_SOLID.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\obj\Debug\ISP_SOLID.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\obj\Debug\ISP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\ISP_SOLID\obj\Debug\ISP_SOLID.pdb

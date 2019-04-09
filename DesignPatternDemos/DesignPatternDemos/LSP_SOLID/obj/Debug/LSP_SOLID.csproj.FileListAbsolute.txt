@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\bin\Debug\LSP_SOLID.exe.config
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\bin\Debug\LSP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\bin\Debug\LSP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\obj\Debug\LSP_SOLID.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\obj\Debug\LSP_SOLID.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\obj\Debug\LSP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\LSP_SOLID\obj\Debug\LSP_SOLID.pdb

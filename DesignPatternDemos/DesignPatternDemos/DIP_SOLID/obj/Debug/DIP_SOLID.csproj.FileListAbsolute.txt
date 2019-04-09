@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\obj\Debug\DIP_SOLID.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\bin\Debug\DIP_SOLID.exe.config
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\bin\Debug\DIP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\bin\Debug\DIP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\obj\Debug\DIP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\obj\Debug\DIP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\DIP_SOLID\obj\Debug\DIP_SOLID.csprojAssemblyReference.cache

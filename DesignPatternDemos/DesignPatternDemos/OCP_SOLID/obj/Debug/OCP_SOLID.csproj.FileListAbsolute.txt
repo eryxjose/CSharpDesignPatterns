@@ -1,0 +1,14 @@
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.exe.config
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.exe.config
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\bin\Debug\OCP_SOLID.pdb
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.csprojAssemblyReference.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.exe
+C:\Projetos\Estudos\_Cursos e Eventos\Design Patterns in C# and .NET\CSharpDesignPatterns\DesignPatternDemos\DesignPatternDemos\OCP_SOLID\obj\Debug\OCP_SOLID.pdb
